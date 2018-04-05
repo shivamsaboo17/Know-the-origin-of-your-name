@@ -9,5 +9,5 @@ Feel free to train model on other language names. You may perhaps want to train 
 Note that the model performs poorly in English because of overlapping of names in many other languages eg Jane.
 Increasing training data and using LSTM cells instead of vanilla RNN will increase performance.
 ### Dependencies:
-Numpy
+Numpy</br>
 PyTorch
